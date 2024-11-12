@@ -1,6 +1,6 @@
 # Go Template Repository
 
-![un license](https://img.shields.io/github/license/RyosukeDTomita/template_repository_go)-->
+![un license](https://img.shields.io/github/license/RyosukeDTomita/template_repository_go)
 
 ## INDEX
 
