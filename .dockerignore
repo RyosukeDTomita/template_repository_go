@@ -1,0 +1,8 @@
+.gitignore
+CODEOWNERS
+.git/
+.github/
+Dockerfile
+compose.yaml
+doc/
+bin/
